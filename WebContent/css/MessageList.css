@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.header.picture{
+	float:left;
+	width:700px;
+    height:50px;
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left:40px;
+}
+.title{
+	float:right;
+	width:700px;
+    height:50px;
+}
